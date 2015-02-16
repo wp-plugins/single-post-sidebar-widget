@@ -32,8 +32,8 @@ e.g.
 
 
 == Screenshots ==
-This is a screeshot of the widget with display options
-<img src="http://plugins.svn.wordpress.org/single-post-sidebar-widget/trunk/screenshot.png">
+1. This is a screeshot of the widget with display options
+
 == Changelog ==
 
 = 1.0 =

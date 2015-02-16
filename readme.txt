@@ -32,7 +32,8 @@ e.g.
 
 
 == Screenshots ==
-
+This is a screeshot of the widget with display options
+screenshot.png
 == Changelog ==
 
 = 1.0 =

@@ -43,7 +43,7 @@ e.g.
 = 1.0 =
 
 
-= 0.5 =
+== Screenshots ==
 
 
 == Arbitrary section ==
